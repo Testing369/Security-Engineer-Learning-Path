@@ -303,3 +303,34 @@ Recibe la formación que necesitas para aprovechar al máximo las tecnologías d
 Prueba más reciente del lab: 13 de julio de 2023
 
 Copyright 2025 Google LLC. All rights reserved. Google y el logotipo de Google son marcas de Google LLC. Los demás nombres de productos y empresas pueden ser marcas de las respectivas empresas a las que estén asociados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Lab 3: Aspectos principales de las cuentas de servicio y los roles.
+
+### Descripción general
+Las cuentas de servicio son un tipo especial de Cuenta de Google que otorga permisos a máquinas virtuales, en lugar de a usuarios finales. Se usan principalmente para garantizar que las conexiones a las APIs y los servicios de Google Cloud sean seguras y estén administradas. Otorgar acceso a conexiones de confianza y rechazar las que sean maliciosas es una función de seguridad que se debe tener en cualquier proyecto de Google Cloud. En este lab, podrás practicar con los pormenores de las cuentas de servicio.
+
+
+curso VPN:Cómo crear una VPN de alta capacidad de procesamiento
+
+https://google.qwiklabs.com/catalog_lab/620?_gl=1*1ldyhnm*_ga*ODA0ODM4MjEuMTc0Mjg2OTkzNQ..*_ga_2X30ZRBDSG*MTc0Mjk2MTI0OS40LjEuMTc0Mjk2MTUwNi4xLjAuMA..
+
+curso maquinas virtuales:
+https://www.cloudskillsboost.google/focuses/3563?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=43130678
