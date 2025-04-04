@@ -334,3 +334,26 @@ https://google.qwiklabs.com/catalog_lab/620?_gl=1*1ldyhnm*_ga*ODA0ODM4MjEuMTc0Mj
 
 curso maquinas virtuales:
 https://www.cloudskillsboost.google/focuses/3563?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=43130678
+
+
+
+## Lab 4: Intercambio de tráfico entre redes de VPC
+
+### Descripción general 
+En este curso aprendi a conectar 2 proyectos a nivel de distintas redes pero de las misma organización, conexiones por ssh a travez de consola.
+
+Las configuraciones de la red fueron 1 a 1, conectada por VPC;
+
+Paso 1: Configurar y crear estrucutra de la red de ambos proyectos A y B
+Paso 2: crear las sub redes de ambos proyectos.
+paso 4: Crear la configuración comunicación VCP de ambos proyectos a y b.
+Paso 5: Pruebas de conexión por SSH , se realizo una prueba desde el contexto proyecto B un ping, al proyecto A, la respuesta fue exitosa y respeusta de 64bytes.
+
+### Beneficios
+![alt text](<Captura de pantalla -2025-04-04 10-17-01.png>)
+
+
+
+#### Lab:
+https://www.cloudskillsboost.google/course_templates/645/labs/489295 
+
